@@ -1,5 +1,3 @@
 #!/usr/bin/env ruby
 
 require "shell_help"
-
-ShellHelp::Command.run(ARGV)

@@ -21,7 +21,7 @@ module ShellHelp
         end
       end
       
-      command_parser.parse!(@argv)
+#      command_parser.parse!(@argv)
     end
   end
 
